@@ -1,6 +1,6 @@
 
 import math
-
+import statistics
 
 
 # list of elements to calculate mean
